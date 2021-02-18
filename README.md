@@ -10,4 +10,6 @@ Since the number of predictors is very large, we use PCA as dimensionality reduc
 
 We split the training data into 4:1 split for train and validation set and used Random Forest Classifierfor as classification model. We tested model using Kfold cross validation. We got accuracy of 93% and F1 score of 92%.
 
-Also, on validation set accuracy was 94% and F1 score was 92%.
+Also, on validation set accuracy was 94% and F1 score was 92%. 
+
+Predictions on test set is in test_data_pred.xlsx file.
