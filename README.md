@@ -1,6 +1,7 @@
 # Assignment
 
-Mail file to run: classification.py or classification.ipynb
+Main file to run: classification.ipynb or classification.py
+
 To view EDA: classification.html
 
 We have dataset with aim of building of classification model on the data. The output variable has two classes 0 and 1. We have training set with dimensions 3910 X 58 with no null values and all continuous input variables. Distribution of output classes is not equal with ~60% of data with class 0.
