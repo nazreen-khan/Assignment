@@ -1,5 +1,8 @@
 # Assignment
 
+Mail file to run: classification.py or classification.ipynb
+To view EDA: classification.html
+
 We have dataset with aim of building of classification model on the data. The output variable has two classes 0 and 1. We have training set with dimensions 3910 X 58 with no null values and all continuous input variables. Distribution of output classes is not equal with ~60% of data with class 0.
 
 The input features are highly positively skewed. Hence we perform square root tranform to decrease skewness to some level. This tramsform could decrease skewness to 57%.
